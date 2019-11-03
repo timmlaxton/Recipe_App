@@ -14,10 +14,6 @@ A single page app with a React / JavaScript frontend
 
 ![](https://github.com/timmlaxton/Recipe_App/blob/master/Screenshots/Tomatoes.png?raw=true)
 
-# Brief
-
-The BBC are looking to improve their online offering of educational content by developing some interactive browser applications that display information in a fun and interesting way. Your task is to make an a Minimum Viable Product or prototype to put forward to them - this may only be for a small set of information, and may only showcase some of the features to be included in the final app.
-
 
 # Screenshots
 

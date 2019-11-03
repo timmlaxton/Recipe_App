@@ -1,8 +1,8 @@
 # Recipe_App
 **Food app that enabls users to serach through thousands of recipes based on a singe ingriedient. 
 Features include:
-Allows users to find thousands of recipes
-Step by step instructions of how make delicious meals.**
+- Allows users to find thousands of recipes
+- Step by step instructions of how make delicious meals.**
 
 # What I learned
 - How to fetch data from an api with react

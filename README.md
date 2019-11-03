@@ -1,5 +1,5 @@
 # Recipe_App
-**Food app that enabls users to serach through thousands of recipes based on a singe ingriedient.**
+**Food app that enables users to search through thousands of recipes based on a single ingriedient.**
 
 Features include:
 - Allows users to find thousands of recipes

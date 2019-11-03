@@ -5,9 +5,9 @@ Allows users to find thousands of recipes
 Step by step instructions of how make delicious meals.**
 
 # What I learned
-1.How to fetch data from an api with react
-2.How useState and useEffect work
-3.How to pass down data in react with props
+- How to fetch data from an api with react
+- How useState and useEffect work
+- How to pass down data in react with props
 
 
 A single page app with a React / JavaScript frontend
